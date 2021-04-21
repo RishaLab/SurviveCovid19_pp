@@ -34,7 +34,7 @@ Web Version: https://vdheerajofficial.itch.io/survivecovid19-plus
 4. Replace any necassary folders.
 5. Use appropriate build settings to generate the game. 
 
-## Steps to build the game:
+## Steps to Play the game:
 There are 3 ways to play the game:
 1. Use the link provided for the web version.
 2. Use the APK inside the build folder to play on mobile devices.
