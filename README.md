@@ -41,9 +41,5 @@ SurviveCovid-19 has been developed to educate about, and motivate public to foll
   <img src="dev.png" width="700" title="Development" alt="Image unavailable">
 </p>
 
-## Demonstration Video of SurviveCovid-19:
-The demonstration video can be found on Youtube using the following link:
-https://youtu.be/j8lCtnx2MHg
-
 ## How to contribute to SurviveCovid19
 We will be very happy to receive any kind of contributions. Incase of a bug or an enhancement idea or a feature improvement idea, please open an issue or a pull request. Incase of any queries or if you would like to give any suggestions, please feel free to contact Dheeraj Vagavolu (cs17b028@iittp.ac.in), Akhila Sri Manasa Venigalla (cs19d504@iittp.ac.in) or Sridhar Chimalakonda (ch@iittp.ac.in) of RISHA Lab, IIT Tirupati, India.
