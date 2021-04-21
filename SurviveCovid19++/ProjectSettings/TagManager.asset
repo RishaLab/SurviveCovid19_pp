@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Coin
+  - Virus
+  - Change0
+  - Change2
+  - Change1
+  - CrowdTarget
+  - Crowd
+  - Collect
+  - Water
+  - Divide
+  - Grocery
+  - Mask
+  - Sanitizer
+  - ChatPanel
+  - ChatInput
+  - Hospital
+  - Virus2
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - enemy
+  - crowd
+  - player
+  - Map
+  - target
+  - Hospital
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

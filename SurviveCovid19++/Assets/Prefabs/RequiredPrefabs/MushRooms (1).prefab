@@ -1,0 +1,2524 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &9104873875510676628
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 9104873875510676629}
+  m_Layer: 0
+  m_Name: MushRooms (1)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &9104873875510676629
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9104873875510676628}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 114.1, y: 401.2422, z: -401.09998}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 3597928826750407878}
+  - {fileID: 2895204637638743851}
+  - {fileID: 3597928827219257968}
+  - {fileID: 3597928826900619140}
+  - {fileID: 3597928827474156483}
+  - {fileID: 3597928826963077684}
+  - {fileID: 3597928827596955722}
+  - {fileID: 3597928827434426654}
+  - {fileID: 2895204637168676321}
+  - {fileID: 2895204638272916481}
+  - {fileID: 2895204637806192339}
+  - {fileID: 2895204636824703122}
+  - {fileID: 2895204637880345676}
+  - {fileID: 2895204637377888394}
+  - {fileID: 2895204636520415857}
+  - {fileID: 2895204637452464709}
+  - {fileID: 2895204636668568272}
+  - {fileID: 2895204638505293747}
+  - {fileID: 2895204637544006151}
+  - {fileID: 2895204638509774354}
+  - {fileID: 2895204636905566533}
+  - {fileID: 3597928826689708487}
+  - {fileID: 3597928828668020666}
+  - {fileID: 2895204636640355280}
+  - {fileID: 2895204638429369362}
+  - {fileID: 2895204637372002812}
+  - {fileID: 2895204636459529577}
+  - {fileID: 2895204638323816554}
+  - {fileID: 2895204637320196924}
+  - {fileID: 2895204638227310199}
+  - {fileID: 2895204636808973371}
+  - {fileID: 3597928826909632978}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &9104873874153793513
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 9104873875510676629}
+    m_Modifications:
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 17
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalScale.z
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -71.878265
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -396.91107
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 528.8483
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6930351614118511177, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_Name
+      value: ForestMushroom02 (13)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: a23c20d2f3f5cca4b8d20c8669af7144, type: 3}
+--- !u!4 &2895204638505293747 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+    type: 3}
+  m_PrefabInstance: {fileID: 9104873874153793513}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &9104873874158257736
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 9104873875510676629}
+    m_Modifications:
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 19
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -71.44397
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -396.91107
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 525.63544
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6930351614118511177, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_Name
+      value: ForestMushroom02 (11)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: a23c20d2f3f5cca4b8d20c8669af7144, type: 3}
+--- !u!4 &2895204638509774354 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+    type: 3}
+  m_PrefabInstance: {fileID: 9104873874158257736}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &9104873874228864072
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 9104873875510676629}
+    m_Modifications:
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 24
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -71.44397
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -396.91107
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 543.9402
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6930351614118511177, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_Name
+      value: ForestMushroom02 (16)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: a23c20d2f3f5cca4b8d20c8669af7144, type: 3}
+--- !u!4 &2895204638429369362 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+    type: 3}
+  m_PrefabInstance: {fileID: 9104873874228864072}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &9104873874341398576
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 9104873875510676629}
+    m_Modifications:
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 27
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalScale.z
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -67.026886
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -396.91107
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 572.3661
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6930351614118511177, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_Name
+      value: ForestMushroom02 (21)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: a23c20d2f3f5cca4b8d20c8669af7144, type: 3}
+--- !u!4 &2895204638323816554 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+    type: 3}
+  m_PrefabInstance: {fileID: 9104873874341398576}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &9104873874389814096
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 9104873875510676629}
+    m_Modifications:
+    - target: {fileID: 5743615338440286496, guid: 2376b0bc23c563543a8ec1756b256f2a,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5743615338440286496, guid: 2376b0bc23c563543a8ec1756b256f2a,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -50.126038
+      objectReference: {fileID: 0}
+    - target: {fileID: 5743615338440286496, guid: 2376b0bc23c563543a8ec1756b256f2a,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -396.91107
+      objectReference: {fileID: 0}
+    - target: {fileID: 5743615338440286496, guid: 2376b0bc23c563543a8ec1756b256f2a,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 514.5411
+      objectReference: {fileID: 0}
+    - target: {fileID: 5743615338440286496, guid: 2376b0bc23c563543a8ec1756b256f2a,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5743615338440286496, guid: 2376b0bc23c563543a8ec1756b256f2a,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5743615338440286496, guid: 2376b0bc23c563543a8ec1756b256f2a,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5743615338440286496, guid: 2376b0bc23c563543a8ec1756b256f2a,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5743615338440286496, guid: 2376b0bc23c563543a8ec1756b256f2a,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5743615338440286496, guid: 2376b0bc23c563543a8ec1756b256f2a,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5743615338440286496, guid: 2376b0bc23c563543a8ec1756b256f2a,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8786015314327442227, guid: 2376b0bc23c563543a8ec1756b256f2a,
+        type: 3}
+      propertyPath: m_Name
+      value: ForestMushroom01 (8)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 2376b0bc23c563543a8ec1756b256f2a, type: 3}
+--- !u!4 &3597928827219257968 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5743615338440286496, guid: 2376b0bc23c563543a8ec1756b256f2a,
+    type: 3}
+  m_PrefabInstance: {fileID: 9104873874389814096}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &9104873874391186523
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 9104873875510676629}
+    m_Modifications:
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -50.479874
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -396.91107
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 539.6153
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6930351614118511177, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_Name
+      value: ForestMushroom02 (7)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: a23c20d2f3f5cca4b8d20c8669af7144, type: 3}
+--- !u!4 &2895204638272916481 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+    type: 3}
+  m_PrefabInstance: {fileID: 9104873874391186523}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &9104873874401132606
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 9104873875510676629}
+    m_Modifications:
+    - target: {fileID: 5743615338440286496, guid: 2376b0bc23c563543a8ec1756b256f2a,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 5743615338440286496, guid: 2376b0bc23c563543a8ec1756b256f2a,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -26.60323
+      objectReference: {fileID: 0}
+    - target: {fileID: 5743615338440286496, guid: 2376b0bc23c563543a8ec1756b256f2a,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -396.91107
+      objectReference: {fileID: 0}
+    - target: {fileID: 5743615338440286496, guid: 2376b0bc23c563543a8ec1756b256f2a,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 528.9127
+      objectReference: {fileID: 0}
+    - target: {fileID: 5743615338440286496, guid: 2376b0bc23c563543a8ec1756b256f2a,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5743615338440286496, guid: 2376b0bc23c563543a8ec1756b256f2a,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5743615338440286496, guid: 2376b0bc23c563543a8ec1756b256f2a,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5743615338440286496, guid: 2376b0bc23c563543a8ec1756b256f2a,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5743615338440286496, guid: 2376b0bc23c563543a8ec1756b256f2a,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5743615338440286496, guid: 2376b0bc23c563543a8ec1756b256f2a,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5743615338440286496, guid: 2376b0bc23c563543a8ec1756b256f2a,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8786015314327442227, guid: 2376b0bc23c563543a8ec1756b256f2a,
+        type: 3}
+      propertyPath: m_Name
+      value: ForestMushroom01
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 2376b0bc23c563543a8ec1756b256f2a, type: 3}
+--- !u!4 &3597928827434426654 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5743615338440286496, guid: 2376b0bc23c563543a8ec1756b256f2a,
+    type: 3}
+  m_PrefabInstance: {fileID: 9104873874401132606}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &9104873874429449773
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 9104873875510676629}
+    m_Modifications:
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 29
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -66.59259
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -396.91107
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 569.15314
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6930351614118511177, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_Name
+      value: ForestMushroom02 (19)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: a23c20d2f3f5cca4b8d20c8669af7144, type: 3}
+--- !u!4 &2895204638227310199 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+    type: 3}
+  m_PrefabInstance: {fileID: 9104873874429449773}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &9104873874638240483
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 9104873875510676629}
+    m_Modifications:
+    - target: {fileID: 5743615338440286496, guid: 2376b0bc23c563543a8ec1756b256f2a,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 5743615338440286496, guid: 2376b0bc23c563543a8ec1756b256f2a,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -27.748737
+      objectReference: {fileID: 0}
+    - target: {fileID: 5743615338440286496, guid: 2376b0bc23c563543a8ec1756b256f2a,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -396.91107
+      objectReference: {fileID: 0}
+    - target: {fileID: 5743615338440286496, guid: 2376b0bc23c563543a8ec1756b256f2a,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 530.9621
+      objectReference: {fileID: 0}
+    - target: {fileID: 5743615338440286496, guid: 2376b0bc23c563543a8ec1756b256f2a,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5743615338440286496, guid: 2376b0bc23c563543a8ec1756b256f2a,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5743615338440286496, guid: 2376b0bc23c563543a8ec1756b256f2a,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5743615338440286496, guid: 2376b0bc23c563543a8ec1756b256f2a,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5743615338440286496, guid: 2376b0bc23c563543a8ec1756b256f2a,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5743615338440286496, guid: 2376b0bc23c563543a8ec1756b256f2a,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5743615338440286496, guid: 2376b0bc23c563543a8ec1756b256f2a,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8786015314327442227, guid: 2376b0bc23c563543a8ec1756b256f2a,
+        type: 3}
+      propertyPath: m_Name
+      value: ForestMushroom01 (3)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 2376b0bc23c563543a8ec1756b256f2a, type: 3}
+--- !u!4 &3597928827474156483 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5743615338440286496, guid: 2376b0bc23c563543a8ec1756b256f2a,
+    type: 3}
+  m_PrefabInstance: {fileID: 9104873874638240483}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &9104873874787128342
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 9104873875510676629}
+    m_Modifications:
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 12
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -35.86298
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -396.91107
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 544.50183
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6930351614118511177, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_Name
+      value: ForestMushroom02 (4)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: a23c20d2f3f5cca4b8d20c8669af7144, type: 3}
+--- !u!4 &2895204637880345676 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+    type: 3}
+  m_PrefabInstance: {fileID: 9104873874787128342}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &9104873874847192713
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 9104873875510676629}
+    m_Modifications:
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -33.77248
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -396.91107
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 550.5178
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6930351614118511177, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_Name
+      value: ForestMushroom02 (6)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: a23c20d2f3f5cca4b8d20c8669af7144, type: 3}
+--- !u!4 &2895204637806192339 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+    type: 3}
+  m_PrefabInstance: {fileID: 9104873874847192713}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &9104873874858669542
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 9104873875510676629}
+    m_Modifications:
+    - target: {fileID: 5743615338440286496, guid: 2376b0bc23c563543a8ec1756b256f2a,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5743615338440286496, guid: 2376b0bc23c563543a8ec1756b256f2a,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -49.085205
+      objectReference: {fileID: 0}
+    - target: {fileID: 5743615338440286496, guid: 2376b0bc23c563543a8ec1756b256f2a,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -396.91107
+      objectReference: {fileID: 0}
+    - target: {fileID: 5743615338440286496, guid: 2376b0bc23c563543a8ec1756b256f2a,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 516.14075
+      objectReference: {fileID: 0}
+    - target: {fileID: 5743615338440286496, guid: 2376b0bc23c563543a8ec1756b256f2a,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5743615338440286496, guid: 2376b0bc23c563543a8ec1756b256f2a,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5743615338440286496, guid: 2376b0bc23c563543a8ec1756b256f2a,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5743615338440286496, guid: 2376b0bc23c563543a8ec1756b256f2a,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5743615338440286496, guid: 2376b0bc23c563543a8ec1756b256f2a,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5743615338440286496, guid: 2376b0bc23c563543a8ec1756b256f2a,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5743615338440286496, guid: 2376b0bc23c563543a8ec1756b256f2a,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8786015314327442227, guid: 2376b0bc23c563543a8ec1756b256f2a,
+        type: 3}
+      propertyPath: m_Name
+      value: ForestMushroom01 (9)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 2376b0bc23c563543a8ec1756b256f2a, type: 3}
+--- !u!4 &3597928826750407878 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5743615338440286496, guid: 2376b0bc23c563543a8ec1756b256f2a,
+    type: 3}
+  m_PrefabInstance: {fileID: 9104873874858669542}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &9104873874927747303
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 9104873875510676629}
+    m_Modifications:
+    - target: {fileID: 5743615338440286496, guid: 2376b0bc23c563543a8ec1756b256f2a,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 21
+      objectReference: {fileID: 0}
+    - target: {fileID: 5743615338440286496, guid: 2376b0bc23c563543a8ec1756b256f2a,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -69.56877
+      objectReference: {fileID: 0}
+    - target: {fileID: 5743615338440286496, guid: 2376b0bc23c563543a8ec1756b256f2a,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -396.91107
+      objectReference: {fileID: 0}
+    - target: {fileID: 5743615338440286496, guid: 2376b0bc23c563543a8ec1756b256f2a,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 530.31494
+      objectReference: {fileID: 0}
+    - target: {fileID: 5743615338440286496, guid: 2376b0bc23c563543a8ec1756b256f2a,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5743615338440286496, guid: 2376b0bc23c563543a8ec1756b256f2a,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5743615338440286496, guid: 2376b0bc23c563543a8ec1756b256f2a,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5743615338440286496, guid: 2376b0bc23c563543a8ec1756b256f2a,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5743615338440286496, guid: 2376b0bc23c563543a8ec1756b256f2a,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5743615338440286496, guid: 2376b0bc23c563543a8ec1756b256f2a,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5743615338440286496, guid: 2376b0bc23c563543a8ec1756b256f2a,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8786015314327442227, guid: 2376b0bc23c563543a8ec1756b256f2a,
+        type: 3}
+      propertyPath: m_Name
+      value: ForestMushroom01 (10)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 2376b0bc23c563543a8ec1756b256f2a, type: 3}
+--- !u!4 &3597928826689708487 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5743615338440286496, guid: 2376b0bc23c563543a8ec1756b256f2a,
+    type: 3}
+  m_PrefabInstance: {fileID: 9104873874927747303}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &9104873874943344292
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 9104873875510676629}
+    m_Modifications:
+    - target: {fileID: 5743615338440286496, guid: 2376b0bc23c563543a8ec1756b256f2a,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 5743615338440286496, guid: 2376b0bc23c563543a8ec1756b256f2a,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -51.846222
+      objectReference: {fileID: 0}
+    - target: {fileID: 5743615338440286496, guid: 2376b0bc23c563543a8ec1756b256f2a,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -396.91107
+      objectReference: {fileID: 0}
+    - target: {fileID: 5743615338440286496, guid: 2376b0bc23c563543a8ec1756b256f2a,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 576.95526
+      objectReference: {fileID: 0}
+    - target: {fileID: 5743615338440286496, guid: 2376b0bc23c563543a8ec1756b256f2a,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5743615338440286496, guid: 2376b0bc23c563543a8ec1756b256f2a,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5743615338440286496, guid: 2376b0bc23c563543a8ec1756b256f2a,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5743615338440286496, guid: 2376b0bc23c563543a8ec1756b256f2a,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5743615338440286496, guid: 2376b0bc23c563543a8ec1756b256f2a,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5743615338440286496, guid: 2376b0bc23c563543a8ec1756b256f2a,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5743615338440286496, guid: 2376b0bc23c563543a8ec1756b256f2a,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8786015314327442227, guid: 2376b0bc23c563543a8ec1756b256f2a,
+        type: 3}
+      propertyPath: m_Name
+      value: ForestMushroom01 (7)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 2376b0bc23c563543a8ec1756b256f2a, type: 3}
+--- !u!4 &3597928826900619140 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5743615338440286496, guid: 2376b0bc23c563543a8ec1756b256f2a,
+    type: 3}
+  m_PrefabInstance: {fileID: 9104873874943344292}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &9104873874950047986
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 9104873875510676629}
+    m_Modifications:
+    - target: {fileID: 5743615338440286496, guid: 2376b0bc23c563543a8ec1756b256f2a,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 31
+      objectReference: {fileID: 0}
+    - target: {fileID: 5743615338440286496, guid: 2376b0bc23c563543a8ec1756b256f2a,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -64.71739
+      objectReference: {fileID: 0}
+    - target: {fileID: 5743615338440286496, guid: 2376b0bc23c563543a8ec1756b256f2a,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -396.91107
+      objectReference: {fileID: 0}
+    - target: {fileID: 5743615338440286496, guid: 2376b0bc23c563543a8ec1756b256f2a,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 573.8327
+      objectReference: {fileID: 0}
+    - target: {fileID: 5743615338440286496, guid: 2376b0bc23c563543a8ec1756b256f2a,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5743615338440286496, guid: 2376b0bc23c563543a8ec1756b256f2a,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5743615338440286496, guid: 2376b0bc23c563543a8ec1756b256f2a,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5743615338440286496, guid: 2376b0bc23c563543a8ec1756b256f2a,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5743615338440286496, guid: 2376b0bc23c563543a8ec1756b256f2a,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5743615338440286496, guid: 2376b0bc23c563543a8ec1756b256f2a,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5743615338440286496, guid: 2376b0bc23c563543a8ec1756b256f2a,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8786015314327442227, guid: 2376b0bc23c563543a8ec1756b256f2a,
+        type: 3}
+      propertyPath: m_Name
+      value: ForestMushroom01 (12)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 2376b0bc23c563543a8ec1756b256f2a, type: 3}
+--- !u!4 &3597928826909632978 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5743615338440286496, guid: 2376b0bc23c563543a8ec1756b256f2a,
+    type: 3}
+  m_PrefabInstance: {fileID: 9104873874950047986}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &9104873875015296881
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 9104873875510676629}
+    m_Modifications:
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -54.492935
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -396.91107
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 515.52686
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6930351614118511177, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_Name
+      value: ForestMushroom02 (9)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: a23c20d2f3f5cca4b8d20c8669af7144, type: 3}
+--- !u!4 &2895204637638743851 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+    type: 3}
+  m_PrefabInstance: {fileID: 9104873875015296881}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &9104873875121893981
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 9104873875510676629}
+    m_Modifications:
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 18
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -67.56978
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -396.91107
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 528.65186
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6930351614118511177, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_Name
+      value: ForestMushroom02 (12)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: a23c20d2f3f5cca4b8d20c8669af7144, type: 3}
+--- !u!4 &2895204637544006151 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+    type: 3}
+  m_PrefabInstance: {fileID: 9104873875121893981}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &9104873875139873556
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 9104873875510676629}
+    m_Modifications:
+    - target: {fileID: 5743615338440286496, guid: 2376b0bc23c563543a8ec1756b256f2a,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 5743615338440286496, guid: 2376b0bc23c563543a8ec1756b256f2a,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -28.219273
+      objectReference: {fileID: 0}
+    - target: {fileID: 5743615338440286496, guid: 2376b0bc23c563543a8ec1756b256f2a,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -396.91107
+      objectReference: {fileID: 0}
+    - target: {fileID: 5743615338440286496, guid: 2376b0bc23c563543a8ec1756b256f2a,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 528.3631
+      objectReference: {fileID: 0}
+    - target: {fileID: 5743615338440286496, guid: 2376b0bc23c563543a8ec1756b256f2a,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5743615338440286496, guid: 2376b0bc23c563543a8ec1756b256f2a,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5743615338440286496, guid: 2376b0bc23c563543a8ec1756b256f2a,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5743615338440286496, guid: 2376b0bc23c563543a8ec1756b256f2a,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5743615338440286496, guid: 2376b0bc23c563543a8ec1756b256f2a,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5743615338440286496, guid: 2376b0bc23c563543a8ec1756b256f2a,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5743615338440286496, guid: 2376b0bc23c563543a8ec1756b256f2a,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8786015314327442227, guid: 2376b0bc23c563543a8ec1756b256f2a,
+        type: 3}
+      propertyPath: m_Name
+      value: ForestMushroom01 (2)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 2376b0bc23c563543a8ec1756b256f2a, type: 3}
+--- !u!4 &3597928826963077684 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5743615338440286496, guid: 2376b0bc23c563543a8ec1756b256f2a,
+    type: 3}
+  m_PrefabInstance: {fileID: 9104873875139873556}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &9104873875214877215
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 9104873875510676629}
+    m_Modifications:
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 15
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -31.106953
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -396.91107
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 524.6325
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6930351614118511177, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_Name
+      value: ForestMushroom02 (1)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: a23c20d2f3f5cca4b8d20c8669af7144, type: 3}
+--- !u!4 &2895204637452464709 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+    type: 3}
+  m_PrefabInstance: {fileID: 9104873875214877215}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &9104873875285410214
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 9104873875510676629}
+    m_Modifications:
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 25
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -67.56978
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -396.91107
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 546.95667
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6930351614118511177, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_Name
+      value: ForestMushroom02 (15)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: a23c20d2f3f5cca4b8d20c8669af7144, type: 3}
+--- !u!4 &2895204637372002812 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+    type: 3}
+  m_PrefabInstance: {fileID: 9104873875285410214}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &9104873875291320528
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 9104873875510676629}
+    m_Modifications:
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 13
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -33.129765
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -396.91107
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 523.1338
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6930351614118511177, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_Name
+      value: ForestMushroom02 (3)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: a23c20d2f3f5cca4b8d20c8669af7144, type: 3}
+--- !u!4 &2895204637377888394 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+    type: 3}
+  m_PrefabInstance: {fileID: 9104873875291320528}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &9104873875334267750
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 9104873875510676629}
+    m_Modifications:
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 28
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -62.7184
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -396.91107
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 572.16956
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6930351614118511177, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_Name
+      value: ForestMushroom02 (20)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: a23c20d2f3f5cca4b8d20c8669af7144, type: 3}
+--- !u!4 &2895204637320196924 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+    type: 3}
+  m_PrefabInstance: {fileID: 9104873875334267750}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &9104873875484745147
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 9104873875510676629}
+    m_Modifications:
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -52.698425
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -396.91107
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 545.96985
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6930351614118511177, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_Name
+      value: ForestMushroom02 (8)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: a23c20d2f3f5cca4b8d20c8669af7144, type: 3}
+--- !u!4 &2895204637168676321 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+    type: 3}
+  m_PrefabInstance: {fileID: 9104873875484745147}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &9104873875632744090
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 9104873875510676629}
+    m_Modifications:
+    - target: {fileID: 5743615338440286496, guid: 2376b0bc23c563543a8ec1756b256f2a,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 22
+      objectReference: {fileID: 0}
+    - target: {fileID: 5743615338440286496, guid: 2376b0bc23c563543a8ec1756b256f2a,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -69.56877
+      objectReference: {fileID: 0}
+    - target: {fileID: 5743615338440286496, guid: 2376b0bc23c563543a8ec1756b256f2a,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -396.91107
+      objectReference: {fileID: 0}
+    - target: {fileID: 5743615338440286496, guid: 2376b0bc23c563543a8ec1756b256f2a,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 548.61975
+      objectReference: {fileID: 0}
+    - target: {fileID: 5743615338440286496, guid: 2376b0bc23c563543a8ec1756b256f2a,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5743615338440286496, guid: 2376b0bc23c563543a8ec1756b256f2a,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5743615338440286496, guid: 2376b0bc23c563543a8ec1756b256f2a,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5743615338440286496, guid: 2376b0bc23c563543a8ec1756b256f2a,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5743615338440286496, guid: 2376b0bc23c563543a8ec1756b256f2a,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5743615338440286496, guid: 2376b0bc23c563543a8ec1756b256f2a,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5743615338440286496, guid: 2376b0bc23c563543a8ec1756b256f2a,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8786015314327442227, guid: 2376b0bc23c563543a8ec1756b256f2a,
+        type: 3}
+      propertyPath: m_Name
+      value: ForestMushroom01 (11)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 2376b0bc23c563543a8ec1756b256f2a, type: 3}
+--- !u!4 &3597928828668020666 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5743615338440286496, guid: 2376b0bc23c563543a8ec1756b256f2a,
+    type: 3}
+  m_PrefabInstance: {fileID: 9104873875632744090}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &9104873875758498079
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 9104873875510676629}
+    m_Modifications:
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -69.59259
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -396.91107
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 527.15314
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6930351614118511177, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_Name
+      value: ForestMushroom02 (10)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: a23c20d2f3f5cca4b8d20c8669af7144, type: 3}
+--- !u!4 &2895204636905566533 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+    type: 3}
+  m_PrefabInstance: {fileID: 9104873875758498079}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &9104873875828646088
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 9104873875510676629}
+    m_Modifications:
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 11
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -42.837814
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -396.91107
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 554.0276
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6930351614118511177, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_Name
+      value: ForestMushroom02 (5)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: a23c20d2f3f5cca4b8d20c8669af7144, type: 3}
+--- !u!4 &2895204636824703122 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+    type: 3}
+  m_PrefabInstance: {fileID: 9104873875828646088}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &9104873875840827754
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 9104873875510676629}
+    m_Modifications:
+    - target: {fileID: 5743615338440286496, guid: 2376b0bc23c563543a8ec1756b256f2a,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 5743615338440286496, guid: 2376b0bc23c563543a8ec1756b256f2a,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -33.105946
+      objectReference: {fileID: 0}
+    - target: {fileID: 5743615338440286496, guid: 2376b0bc23c563543a8ec1756b256f2a,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -396.91107
+      objectReference: {fileID: 0}
+    - target: {fileID: 5743615338440286496, guid: 2376b0bc23c563543a8ec1756b256f2a,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 526.2956
+      objectReference: {fileID: 0}
+    - target: {fileID: 5743615338440286496, guid: 2376b0bc23c563543a8ec1756b256f2a,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5743615338440286496, guid: 2376b0bc23c563543a8ec1756b256f2a,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5743615338440286496, guid: 2376b0bc23c563543a8ec1756b256f2a,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5743615338440286496, guid: 2376b0bc23c563543a8ec1756b256f2a,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5743615338440286496, guid: 2376b0bc23c563543a8ec1756b256f2a,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5743615338440286496, guid: 2376b0bc23c563543a8ec1756b256f2a,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5743615338440286496, guid: 2376b0bc23c563543a8ec1756b256f2a,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8786015314327442227, guid: 2376b0bc23c563543a8ec1756b256f2a,
+        type: 3}
+      propertyPath: m_Name
+      value: ForestMushroom01 (1)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 2376b0bc23c563543a8ec1756b256f2a, type: 3}
+--- !u!4 &3597928827596955722 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5743615338440286496, guid: 2376b0bc23c563543a8ec1756b256f2a,
+    type: 3}
+  m_PrefabInstance: {fileID: 9104873875840827754}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &9104873875846478945
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 9104873875510676629}
+    m_Modifications:
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -64.74121
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -396.91107
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 570.6709
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6930351614118511177, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_Name
+      value: ForestMushroom02 (18)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: a23c20d2f3f5cca4b8d20c8669af7144, type: 3}
+--- !u!4 &2895204636808973371 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+    type: 3}
+  m_PrefabInstance: {fileID: 9104873875846478945}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &9104873875991270026
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 9104873875510676629}
+    m_Modifications:
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 16
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalScale.z
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -35.41544
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -396.91107
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 524.82904
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6930351614118511177, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_Name
+      value: ForestMushroom02
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: a23c20d2f3f5cca4b8d20c8669af7144, type: 3}
+--- !u!4 &2895204636668568272 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+    type: 3}
+  m_PrefabInstance: {fileID: 9104873875991270026}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &9104873876013388682
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 9104873875510676629}
+    m_Modifications:
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 23
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -69.59259
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -396.91107
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 545.45795
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6930351614118511177, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_Name
+      value: ForestMushroom02 (17)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: a23c20d2f3f5cca4b8d20c8669af7144, type: 3}
+--- !u!4 &2895204636640355280 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+    type: 3}
+  m_PrefabInstance: {fileID: 9104873876013388682}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &9104873876145123883
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 9104873875510676629}
+    m_Modifications:
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 14
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -34.981144
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -396.91107
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 521.6161
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6930351614118511177, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_Name
+      value: ForestMushroom02 (2)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: a23c20d2f3f5cca4b8d20c8669af7144, type: 3}
+--- !u!4 &2895204636520415857 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+    type: 3}
+  m_PrefabInstance: {fileID: 9104873876145123883}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &9104873876201653555
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 9104873875510676629}
+    m_Modifications:
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 26
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalScale.z
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -71.878265
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -396.91107
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 547.15314
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6930351614118511177, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+        type: 3}
+      propertyPath: m_Name
+      value: ForestMushroom02 (14)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: a23c20d2f3f5cca4b8d20c8669af7144, type: 3}
+--- !u!4 &2895204636459529577 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 6230404405678583898, guid: a23c20d2f3f5cca4b8d20c8669af7144,
+    type: 3}
+  m_PrefabInstance: {fileID: 9104873876201653555}
+  m_PrefabAsset: {fileID: 0}
