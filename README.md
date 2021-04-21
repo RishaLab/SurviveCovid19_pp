@@ -9,11 +9,14 @@
 
 ## What is SurviveCovid-19?
 1. SurviveCovid19 is a collaborative healthcare game towards educating people about safety measures and vaccination for Covid-19
-2. The code from this repository can be used to build all the Web, Desktop and Android versions of SurviveCovid19.
+2. Play with upto 4 of your friends over the internet using multiplayer capabilities.
+3. The code from this repository can be used to build all the Web, Desktop and Android versions of SurviveCovid19.
 
 ## Features of SurviveCovid-19:
 1. Infection spreads by contact hence enforcing the notion of social distancing.
-2. Masks and Sanitizers control the spread of Virus.
+2. Contains 4 avatars with different capabilities and goals. 
+3. Multiple pickups including Masks and Sanitizers to control the spread of Virus.
+4. Multiple stages which include multiple strains of covid.
 
 <p align="center">
   <img src="SCpp2.png" width="700" title="screenshot" alt="Image unavailable">
