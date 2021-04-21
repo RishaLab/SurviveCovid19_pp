@@ -20,8 +20,7 @@
 </p>
 
 <p align="center">
-  <img src="screenshot1.png" width="350" title="screenshot" alt="Image unavailable">
-  <img src="screenshot2.png" width="350" title="screenshot" alt="Image unavailable">
+  <img src="MapSC.jpeg" width="700" title="screenshot" alt="Image unavailable">
 </p>
 
 ## Uses of SurviveCovid-19:
