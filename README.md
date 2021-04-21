@@ -16,7 +16,7 @@
 2. Masks and Sanitizers control the spread of Virus.
 
 <p align="center">
-  <img src="home.jpg" width="700" title="screenshot" alt="Image unavailable">
+  <img src="SCpp2.png" width="700" title="screenshot" alt="Image unavailable">
 </p>
 
 <p align="center">
