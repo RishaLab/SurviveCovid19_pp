@@ -35,7 +35,7 @@ SurviveCovid-19 has been developed to educate about, and motivate public to foll
 5. Use appropriate build settings to generate the game. 
 
 <p align="center">
-  <img src="development.png" width="700" title="Development" alt="Image unavailable">
+  <img src="dev.png" width="700" title="Development" alt="Image unavailable">
 </p>
 
 ## Demonstration Video of SurviveCovid-19:
