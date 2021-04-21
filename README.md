@@ -6,7 +6,7 @@
 </p>
 
 # SurviveCovid19++
-https://vdheerajofficial.itch.io/survivecovid19-plus
+Web Version: https://vdheerajofficial.itch.io/survivecovid19-plus
 
 ## What is SurviveCovid-19?
 1. SurviveCovid19 is a collaborative healthcare game towards educating people about safety measures and vaccination for Covid-19
@@ -27,15 +27,18 @@ https://vdheerajofficial.itch.io/survivecovid19-plus
   <img src="MapSC.jpeg" width="700" title="screenshot" alt="Image unavailable">
 </p>
 
-## Uses of SurviveCovid-19:
-SurviveCovid-19 has been developed to educate about, and motivate public to follow safety measures to be taken to control Covid-19 pandemic, as an Android and Web based mobile  game.
-
 ## Steps to build the game:
 1. Download the repository on your local machine.  
 2. Create a new Unity 3D application.
 3. Copy the folders from inside of the SurviveCovid19 folder into the application. 
 4. Replace any necassary folders.
 5. Use appropriate build settings to generate the game. 
+
+## Steps to build the game:
+There are 3 ways to play the game:
+1. Use the link provided for the web version.
+2. Use the APK inside the build folder to play on mobile devices.
+3. Use the exe inside the ProductionBuilds folder to play on desktop.
 
 <p align="center">
   <img src="dev.png" width="700" title="Development" alt="Image unavailable">
