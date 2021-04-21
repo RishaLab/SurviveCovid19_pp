@@ -6,6 +6,7 @@
 </p>
 
 # SurviveCovid19++
+https://vdheerajofficial.itch.io/survivecovid19-plus
 
 ## What is SurviveCovid-19?
 1. SurviveCovid19 is a collaborative healthcare game towards educating people about safety measures and vaccination for Covid-19
