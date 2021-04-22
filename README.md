@@ -39,7 +39,7 @@ Android Version: https://vdheerajofficial.itch.io/survivecovid19-plus-mobile
 ## Steps to Play the game:
 There are 3 ways to play the game:
 1. Use the link provided for the web version.
-2. Use the APK inside the build folder to play on mobile devices.
+2. Use the APK inside the build folder to play on mobile devices or download from the android link.
 3. Use the exe inside the ProductionBuilds folder to play on desktop.
 
 <p align="center">
