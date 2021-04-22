@@ -42,6 +42,8 @@ There are 3 ways to play the game:
 2. Use the APK inside the build folder to play on mobile devices or download from the android link.
 3. Use the exe inside the ProductionBuilds folder to play on desktop.
 
+
+## Development
 <p align="center">
   <img src="dev.png" width="700" title="Development" alt="Image unavailable">
 </p>
