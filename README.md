@@ -7,6 +7,7 @@
 
 # SurviveCovid19++
 Web Version: https://vdheerajofficial.itch.io/survivecovid19-plus
+Android Version: https://vdheerajofficial.itch.io/survivecovid19-plus-mobile
 
 ## What is SurviveCovid-19?
 1. SurviveCovid19 is a collaborative healthcare game towards educating people about safety measures and vaccination for Covid-19
